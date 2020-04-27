@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541686479 source:/home/fireeagle/Documents/main.cpp
+	<SDL2/SDL.h>
+	<GL/glew.h>
+	<SDL2/SDL_opengl.h>
+	<GL/glu.h>
+	<stdio.h>
+	<string>
+
